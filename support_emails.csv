@@ -1,0 +1,11 @@
+email_id,subject,body,sender_email,timestamp,priority
+E001,App Crash Report - Urgent,"Hi Support, My app crashes immediately when I tap on the Projects tab. Samsung Galaxy S23 with Android 14. App version 3.0.1. Steps: 1) Open app 2) Tap Projects tab 3) App crashes instantly.",rahul.mehta@gmail.com,2026-04-01 09:15:00,High
+E002,Login Issue Since Update,I updated the app and now cannot log in. Screen goes white after entering password. iPhone 14 Pro running iOS 17.4. Tried reinstalling but problem persists.,priya.krishna@yahoo.com,2026-04-02 11:30:00,High
+E003,Lost All My Data,After the latest update all my tasks disappeared completely. Using OnePlus 11 Android 13. Please recover my data immediately.,amit.sharma@hotmail.com,2026-04-03 08:45:00,
+E004,Feature Request Dark Mode,Please add dark mode. I use the app late at night and the bright white screen is very hard on my eyes. Many users are also asking for this.,anjali.patel@gmail.com,2026-04-06 14:20:00,Low
+E005,Suggestion Calendar Integration,Please integrate with Google Calendar and Outlook. I manually copy task deadlines to my calendar which is very tedious.,deepak.nair@corporate.com,2026-04-07 10:00:00,Medium
+E006,App Very Slow on My Device,App is extremely slow after 3.0.1 update. Takes 8-10 seconds to load on Redmi Note 12. Phone has 4GB RAM and runs Android 12.,ganesh.patil@gmail.com,2026-04-17 16:45:00,Medium
+E007,Notification Bug Report,Push notifications completely stopped working since version 3.0.1. All settings are enabled. Using Pixel 7 with Android 14.,vikram.tiwari@gmail.com,2026-04-05 13:20:00,High
+E008,Subscription Too Expensive,Premium subscription at Rs 499 per month is too expensive. Todoist and TickTick offer similar features at lower prices.,kiran.singh@gmail.com,2026-04-15 09:30:00,Low
+E009,Request for Team Collaboration,Our company has 15 employees who want to use this app collaboratively. Please add task assignment and shared project views.,suresh.bhat@business.com,2026-04-09 11:15:00,Medium
+E010,File Attachment Crash,Every time I attach a PDF or image to a task the app crashes. iPhone 12 iOS 16.5 version 2.9.5. Steps: 1) Create task 2) Tap attach 3) Select file 4) App crashes.,sneha.rao@icloud.com,2026-04-04 15:10:00,High

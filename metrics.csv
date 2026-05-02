@@ -1,0 +1,4 @@
+source_id,expected_category,actual_category,category_match,expected_priority,actual_priority,priority_match,processed_at
+R001,Bug,Bug,YES,Critical,Critical,YES,2026-05-01 17:58:33
+R002,Bug,Bug,YES,Critical,Critical,YES,2026-05-01 17:58:35
+E001,Bug,Bug,YES,Critical,Critical,YES,2026-05-01 17:58:38

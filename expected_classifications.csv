@@ -1,0 +1,31 @@
+source_id,source_type,category,priority,technical_details,suggested_title
+R001,review,Bug,Critical,"App crashes on task open, version 3.0.1, Google Play",Fix: App crash when opening tasks on v3.0.1
+R002,review,Bug,Critical,"Blank white screen after login, version 3.0.1, App Store",Fix: Login blank screen issue on v3.0.1
+R003,review,Bug,Critical,"Data sync broken, data loss reported, version 3.0.1",Fix: Data sync failure and data loss on v3.0.1
+R004,review,Bug,High,"App freezes on file attachment, version 2.9.5",Fix: App freeze when attaching files to tasks
+R005,review,Bug,High,"Notifications not working after update, version 3.0.1",Fix: Push notifications broken on v3.0.1
+R006,review,Feature Request,Medium,Dark mode requested,Feature: Add dark mode option to the app
+R007,review,Feature Request,Medium,Calendar view for tasks requested,Feature: Add monthly calendar view for tasks
+R008,review,Feature Request,Medium,Recurring tasks feature requested,Feature: Add recurring task scheduling
+R009,review,Feature Request,Medium,Team collaboration requested,Feature: Add team task sharing and collaboration
+R010,review,Feature Request,Low,Apple Watch app requested,Feature: Build Apple Watch companion app
+R011,review,Praise,Low,"Positive review, no action needed",No ticket needed - Positive feedback
+R012,review,Praise,Low,Positive review about subtasks feature,No ticket needed - Positive feedback
+R013,review,Praise,Low,"Positive review, no action needed",No ticket needed - Positive feedback
+R014,review,Praise,Low,Positive review about new dashboard,No ticket needed - Positive feedback
+R015,review,Complaint,Low,"Pricing complaint, no technical issue",Complaint: User finds subscription too expensive
+R016,review,Complaint,Medium,Poor customer service complaint,Complaint: Slow customer service response time
+R017,review,Complaint,Medium,App slow on older devices,Complaint: Poor performance on low-end devices
+R018,review,Spam,Low,Promotional spam content,Spam - No action needed
+R019,review,Spam,Low,"Random characters, no meaningful content",Spam - No action needed
+R020,review,Spam,Low,Promotional spam content,Spam - No action needed
+E001,email,Bug,Critical,"Samsung Galaxy S23, Android 14, v3.0.1, Projects tab crash",Fix: Projects tab crash on Android 14 v3.0.1
+E002,email,Bug,Critical,"iPhone 14 Pro, iOS 17.4, login white screen, persists after reinstall",Fix: Login white screen on iOS 17.4 after update
+E003,email,Bug,Critical,"OnePlus 11, Android 13, complete data loss after update",Fix: Critical data loss after latest update
+E004,email,Feature Request,Medium,"Dark mode request, multiple users requesting",Feature: Implement dark mode for the app
+E005,email,Feature Request,Medium,Google Calendar and Outlook integration requested,Feature: Calendar integration with Google and Outlook
+E006,email,Complaint,Medium,"Redmi Note 12, Android 12, 4GB RAM, 8-10 second load time",Complaint: Severe performance degradation on v3.0.1
+E007,email,Bug,High,"Pixel 7, Android 14, v3.0.1, push notifications stopped",Fix: Push notifications not working on Pixel 7 v3.0.1
+E008,email,Complaint,Low,"Pricing complaint, comparison with competitors",Complaint: Premium subscription pricing too high
+E009,email,Feature Request,High,"Team collaboration for 15 employees, task assignment",Feature: Enterprise team collaboration features
+E010,email,Bug,Critical,"iPhone 12, iOS 16.5, v2.9.5, crash on any file attachment",Fix: App crash when attaching files on iOS

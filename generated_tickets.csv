@@ -1,0 +1,4 @@
+ticket_id,source_id,source_type,category,priority,suggested_title,technical_details,ticket_description,quality_score,processed_at
+TKT-001,R001,review,Bug,Critical,Updated: App Crash Bug Fix Required,,App crashes every time user tries to open a task. Issue started after 3.0.1 update. Action needed: investigate crash on task open.,8,2026-05-01 17:58:33
+TKT-002,R002,review,Bug,Critical,Cannot Login After Latest Update - Blank White Screen,,User cannot login since latest update. Blank white screen appears after entering password. Action needed: investigate login flow.,9,2026-05-01 17:58:35
+TKT-003,E001,email,Bug,Critical,App Crash on Samsung Galaxy S23 - Projects Tab v3.0.1,,"App crashes immediately when tapping Projects tab. Device: Samsung Galaxy S23, Android 14, v3.0.1. Steps: 1) Open app 2) Tap Projects tab 3) Crashes instantly.",8,2026-05-01 17:58:38

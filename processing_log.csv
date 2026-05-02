@@ -1,0 +1,4 @@
+timestamp,source_id,source_type,status,message
+2026-05-01 17:58:33,R001,review,SUCCESS,Ticket created successfully
+2026-05-01 17:58:35,R002,review,SUCCESS,Ticket created successfully
+2026-05-01 17:58:38,E001,email,SUCCESS,Ticket created successfully

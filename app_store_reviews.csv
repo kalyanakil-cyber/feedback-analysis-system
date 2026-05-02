@@ -1,0 +1,21 @@
+review_id,platform,rating,review_text,user_name,date,app_version
+R001,Google Play,1,App crashes every time I try to open a task. Completely unusable since the 3.0.1 update.,Rahul_M,2026-04-01,3.0.1
+R002,App Store,2,Cannot login since the latest update. Blank white screen after entering password.,Priya_K,2026-04-02,3.0.1
+R003,Google Play,1,Data sync is completely broken. I lost two weeks of task data.,Amit_S,2026-04-03,3.0.1
+R004,App Store,2,The app freezes whenever I try to attach a file to a task.,Sneha_R,2026-04-04,2.9.5
+R005,Google Play,1,Notifications stopped working after update. Missing all my deadlines.,Vikram_T,2026-04-05,3.0.1
+R006,App Store,4,Please add a dark mode option. My eyes hurt using the app at night.,Anjali_P,2026-04-06,3.0.1
+R007,Google Play,3,Would love to see a calendar view for tasks. Monthly calendar would be amazing.,Deepak_N,2026-04-07,2.9.5
+R008,App Store,4,Missing functionality for recurring tasks. Please add daily and weekly repeat options.,Meera_V,2026-04-08,3.0.1
+R009,Google Play,3,Please add the ability to share tasks with team members.,Suresh_B,2026-04-09,2.9.5
+R010,App Store,4,Would be great to have an Apple Watch app for checking tasks.,Kavitha_L,2026-04-10,3.0.1
+R011,Google Play,5,Amazing app! It has completely transformed how I manage my day.,Rohit_G,2026-04-11,3.0.1
+R012,App Store,5,Love the new subtasks feature. Works perfectly and exactly what I needed.,Nisha_C,2026-04-12,3.0.1
+R013,Google Play,5,Works perfectly on my Pixel 8. Fast clean interface and reliable sync.,Arjun_D,2026-04-13,2.9.5
+R014,App Store,5,Best update yet! The new dashboard is beautiful and so much faster.,Pooja_M,2026-04-14,3.0.1
+R015,Google Play,2,Too expensive for what it offers. Other apps give same features for free.,Kiran_S,2026-04-15,3.0.1
+R016,App Store,2,Poor customer service. Reported a bug two weeks ago and still no response.,Lakshmi_R,2026-04-16,2.9.5
+R017,Google Play,2,App is extremely slow on my older phone. Takes 10 seconds just to open.,Ganesh_P,2026-04-17,3.0.1
+R018,App Store,1,BUY FOLLOWERS NOW CHEAP PRICES VISIT SPAM123 FOR BEST DEALS,spam_bot_1,2026-04-18,1.0.0
+R019,Google Play,3,asdfghjkl qwerty random text nothing useful just testing 123456,test_user,2026-04-19,3.0.1
+R020,App Store,1,MAKE MONEY FAST FROM HOME CLICK HERE NOW LIMITED TIME OFFER,spam_bot_2,2026-04-20,1.0.0

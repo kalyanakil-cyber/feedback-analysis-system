@@ -83,3 +83,28 @@ if not df.empty and 'ticket_id' in df.columns:
         st.rerun()
 else:
     st.info('No tickets available to edit.')
+
+# METRICS TAB
+st.divider()
+st.subheader('Accuracy Metrics')
+if os.path.exists('output/metrics.csv'):
+    metrics_df = pd.read_csv('output/metrics.csv')
+    col1, col2, col3 = st.columns(3)
+    total = len(metrics_df)
+    cat_acc = len(metrics_df[metrics_df['category_match']=='YES'])
+    pri_acc = len(metrics_df[metrics_df['priority_match']=='YES'])
+    col1.metric('Total Processed', total)
+    col2.metric('Category Accuracy', f'{round(cat_acc/total*100)}%')
+    col3.metric('Priority Accuracy', f'{round(pri_acc/total*100)}%')
+    st.divider()
+    col1, col2 = st.columns(2)
+    with col1:
+        st.write('Category Match Results')
+        st.bar_chart(metrics_df['category_match'].value_counts())
+    with col2:
+        st.write('Priority Match Results')
+        st.bar_chart(metrics_df['priority_match'].value_counts())
+    st.write('Full Accuracy Report')
+    st.dataframe(metrics_df, use_container_width=True)
+else:
+    st.info('Run the pipeline first to see accuracy metrics!')
